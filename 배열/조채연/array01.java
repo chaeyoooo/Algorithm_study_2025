@@ -18,6 +18,7 @@ public class array01 {
         int[] arr2 = {2, 1, 1, 3, 2, 5, 4};
         int[] arr3 = {6, 1, 7};
 
+        // 시간 복잡도 생각하기 !
         Arrays.sort(arr1);
         System.out.println(Arrays.toString(arr1));
         Arrays.sort(arr2);
