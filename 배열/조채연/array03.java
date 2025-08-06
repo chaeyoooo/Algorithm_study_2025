@@ -13,7 +13,7 @@ class Solution {
             List<Integer> list = new ArrayList<>(set);
             Collections.sort(list);
 
-            // list -> array
+            /// list -> array
             int[] answer = new int[list.size()];
             for(int i = 0; i < list.size(); i++){
                 answer[i] = list.get(i);
