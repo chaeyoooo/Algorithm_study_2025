@@ -9,7 +9,7 @@ class Solution {
                     set.add( numbers[i] + numbers[j]);
                 }
             }
-            //// set -> list
+            ///// set -> list
             List<Integer> list = new ArrayList<>(set);
             Collections.sort(list);
 
