@@ -8,7 +8,6 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/gykoh42"><img src="https://github.com/gykoh42.png" width="80px;" alt=""/><br /><br /><sub><b>고경아</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/echo98100"><img src="https://github.com/echo98100.png" width="80px;" alt=""/><br /><br /><sub><b>문관영</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/dgyang24"><img src="https://github.com/dgyang24.png" width="80px;" alt=""/><br /><br /><sub><b>양동근</b></sub></a><br /></td>      
     <td align="center"><a href="https://github.com/Sitpo2"><img src="https://github.com/Sitpo2.png" width="80px;" alt=""/><br /><br /><sub><b>유재신</b></sub></a><br /></td>      
